@@ -11,3 +11,4 @@ with open("47228.txt") as f:
                 max_len = length
             length = 0
 print(max_len // 2)
+
